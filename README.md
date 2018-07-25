@@ -18,7 +18,7 @@ further detail:https://github.com/davidsandberg/facenet/wiki/Train-a-classifier-
  
  1,Install Dependencies 1.tensorflow 2.opencv with python ,ect..
  
- 2，dowanload the pre-trained model from followde web: https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55- . then save it to fold named model_checkpoints.
+ 2，dowanload the pre-trained model from followde web: https://drive.google.com/file/d/1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-/view. then save it to fold named model_checkpoints.
  
  3,run real_time_face_recognition.py  if you want face recongnition in real time or run image_recognition.py if you just want a picture test.
  
