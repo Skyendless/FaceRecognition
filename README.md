@@ -20,6 +20,9 @@ further detail:https://github.com/davidsandberg/facenet/wiki/Train-a-classifier-
  
  2，dowanload the pre-trained model from followde web: https://drive.google.com/file/d/1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-/view. then save it to fold named model_checkpoints.
  
- 3,run real_time_face_recognition.py  if you want face recongnition in real time or run image_recognition.py if you just want a picture test.
+ 3,train yourself classifier.
+ 
+ 4,run real_time_face_recognition.py and use two model mentioned above. one of them is facenet pre-train model which download via web,and anther is SVM model we trained for classify the face embedding. 
+ if you want face recongnition in real time or run image_recognition.py if you just want a picture test.
  
  
