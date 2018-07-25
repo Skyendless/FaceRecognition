@@ -1,19 +1,20 @@
-# FaceRecognition
+## FaceRecognition
 Face Recognition based on facenet and mtcnn
 
 
-##Inspiration The code was inspired by davidsandberg/facenet projects 
+## Inspiration 
 
-  https://github.com/davidsandberg/facenet
+The code was inspired by facenet projects ： https://github.com/davidsandberg/facenet
  
  
- #How to train my datasets?
+## How to train my datasets?
+
  For each person you want to identify ，I recommend you prepare ten photos for each one , five for training, and five for testing.
  
  for further detial : https://github.com/davidsandberg/facenet/wiki/Train-a-classifier-on-own-images
 
 
- #How to run?
+## How to run?
  
  1,Install Dependencies 1.tensorflow 2.opencv with python ,ect..
  
