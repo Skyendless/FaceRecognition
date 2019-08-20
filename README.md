@@ -1,6 +1,8 @@
 ## FaceRecognition
 Face Recognition based on facenet and mtcnn
 
+demo picture
+
 ![image](https://github.com/Skyendless/FaceRecognition/raw/master/picture/123.png) 
 
 
